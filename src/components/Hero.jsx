@@ -1,9 +1,6 @@
-import React from 'react';
-
 const Hero = () => {
   return (
     <div className='w-full h-[100px] flex justify-between items-center px-10 text-sm'>
-      <div>{/* Left nav section */}</div>
 
       <div className='flex justify-center items-center gap-10'>
         {/* Right nav section */}
